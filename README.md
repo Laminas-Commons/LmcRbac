@@ -1,3 +1,7 @@
+>
+> This repository is abandoned.
+> Please use the [LM-Commons/LmcRbac](https://www.github.com/LM-Commons/LmcRbac)
+>
 # LmcRbac
 
 [![Version](https://poser.pugx.org/laminas-commons/lmc-rbac/version)](//packagist.org/packages/laminas-commons/lmc-rbac)
