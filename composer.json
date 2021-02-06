@@ -76,5 +76,6 @@
     "cs-fix": "php-cs-fixer fix -v --diff",
     "test": "phpunit",
     "header": "docheader check src test"
-  }
+  },
+  "abandoned": "lm-commons/lmc-rbac"
 }
